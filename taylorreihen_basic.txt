@@ -1,0 +1,2 @@
+Was kann man mit Taylorreihen machen?;Mit einer Taylorreihe kann man Funktionen approximieren (annähern). Man baut sich eine Funktion, die der gegebenen Funktion sehr ähnlich ist. Je nachdem, wie die Funktion aufgebaut ist, braucht man dafür mehr oder weniger Glieder.taylorreihe
+Warum bricht man Taylorreihen irgendwann ab?;Teilweise ist es unmöglich eine Funktion genau zu appoximieren, weswegen man die Taylorreihe irgendwann abbricht. Somit wird die Funktion durch die Taylorreihe T_n und den Rest R_n dargestellt.;taylorreihe
