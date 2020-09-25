@@ -1,0 +1,1 @@
+Was ist eine Nullfolge?; Eine Folge, die gegen null konvergiert.;folgen

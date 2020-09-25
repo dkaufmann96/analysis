@@ -11,3 +11,10 @@ Jede {{c1::beschränkte Folge}} besitzt mindestens einen {{c2::Häufungswert}} (
 Eine {{c1::monotone Folge}} ist genau dann {{c2::konvergent}}, wenn sie {{c2::beschränkt} ist. ({{c3::Hauptsatz über monotone Folgen}});folgen
 Jede nach {{c1::oben beschränkte Folge}} besitzt ein {{c2::Supremum}}.;folgen
 Jede nach {{c1::unten beschränkte Folge}} besitzt ein {{c2::Infimum}}.;folgen
+Bei einer {{c1::arithmetrischen Folge}} ist die {{c2::Differenz}} zwischen zwei Folgegliedern gleich.;folgen
+Bei einer {{c1::geometrischen Folge}} ist der {{c2:Quotient}} zwischen zwei Folgegliedern gleich.;folgen
+Falls der Grenzwert {{c1:unendlich}} ist, dann nennt man die Folge {{c2::uneigentlich konvergent}}.;folgen
+Wenn in jeder {{c1::Epsilon-Umgebung}} von a unendlich viele Folgeglieder liegen, so ist a ein {{c2::Häufungspunkt}}.;folgen
+Jeder {{c1::Grenzwert}} ist auch ein {{c2::Häufungspunkt}}, aber nicht umgekehrt.;folgen
+Eine {{c1::konvergente Folge}} kann nur einen {{c2::Häufungspunkt}} haben.
+Eine Folge ist nach {{c1::oben beschränkt}}, wenn es eine Zahl S gibt, wo {{c2::a_n < S}} ist.
