@@ -1,2 +1,7 @@
 Wenn {{c1::f''(x) > 0}}, dann ist es eine {{c2::Linkskrümmung/Konvexbogen}} (nach oben offen).;kurvendiskussion
 Wenn {{c1::f''(x) < 0}}, dann ist es eine {{c2::Rechtskrümmung/Konkavbogen}} (nach unten offen).;kurvendiskussion
+Ein {{c1::Wendepunkt}} ist dort, wo die Kurve aufhört zu {{c2::steigen/fallen}}.;kurvendiskussion
+Eine Funktion ist auf einem Intervall {{c1::monoton fallend}}, wenn die Ungleichung {{c2::f'(x) <= 0}} erfüllt ist.;kurvendiskussion
+Eine Funktion ist auf einem Intervall {{c1::streng monoton fallend}}, wenn die Ungleichung {{c2::f'(x) < 0}} erfüllt ist.;kurvendiskussion
+Eine Funktion ist auf einem Intervall {{c1::monoton steigend}}, wenn die Ungleichung {{c2::f'(x) >= 0}} erfüllt ist.;kurvendiskussion
+Eine Funktion ist auf einem Intervall {{c1::streng monoton steigend}}, wenn die Ungleichung {{c2::f'(x) > 0}} erfüllt ist.;kurvendiskussion
