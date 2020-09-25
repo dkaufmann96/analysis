@@ -1,0 +1,5 @@
+Wie bestimmt man die Nullstellen einer Funktion?;Man muss die Funktion auf 0 setzen (f(x) = 0) und danach nach x umformen.;kurvendiskussion
+Wie bestimmt man die Extremwerte einer Funktion?;Man muss die erste Ableitung der Funktion auf 0 setzen (f'(x) = 0) und danach nach x umformen.;kurvendiskussion
+Wie sieht man, ob bei deinem Extremwert ein Minimum, Maximum oder Sattelpunkt vorliegt?;Man muss die Extremwerte in die zweite Ableitung einsetzen. Wenn f''(x) < 0, dann ist es ein Minimum. Wenn f''(x) = 0, dann ist es ein Sattelpunkt. Wenn f''(x) > 0, dann ist es ein Maximum.;kurvendiskussion
+Wie bestimmt man die Wendepunkte einer Funktion?; Man muss die zweite Ableitung der Funktion auf 0 setzen (f''(x) = 0) und danach nach x umformen. Danach muss man die x-Werte in die dritte Ableitung einsetzen und das Ergebnis muss ungleich 0 sein (f'''(x) != 0).;kurvendiskussion
+Wo lassen sich die Werte ablesen, wann eine Kurve die Richtung wechselt?;Aus den Wendenpunkten kann man die Intervalle ablesen, wann die Kurve die Richtung wechselt.;kurvendiskussion

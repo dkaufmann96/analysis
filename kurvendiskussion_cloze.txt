@@ -1,0 +1,2 @@
+Wenn {{c1::f''(x) > 0}}, dann ist es eine {{c2::Linkskrümmung/Konvexbogen}} (nach oben offen).;kurvendiskussion
+Wenn {{c1::f''(x) < 0}}, dann ist es eine {{c2::Rechtskrümmung/Konkavbogen}} (nach unten offen).;kurvendiskussion
