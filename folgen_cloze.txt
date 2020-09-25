@@ -16,5 +16,6 @@ Bei einer {{c1::geometrischen Folge}} ist der {{c2:Quotient}} zwischen zwei Folg
 Falls der Grenzwert {{c1:unendlich}} ist, dann nennt man die Folge {{c2::uneigentlich konvergent}}.;folgen
 Wenn in jeder {{c1::Epsilon-Umgebung}} von a unendlich viele Folgeglieder liegen, so ist a ein {{c2::Häufungspunkt}}.;folgen
 Jeder {{c1::Grenzwert}} ist auch ein {{c2::Häufungspunkt}}, aber nicht umgekehrt.;folgen
-Eine {{c1::konvergente Folge}} kann nur einen {{c2::Häufungspunkt}} haben.
-Eine Folge ist nach {{c1::oben beschränkt}}, wenn es eine Zahl S gibt, wo {{c2::a_n < S}} ist.
+Eine Folge ist nach {{c1::oben beschränkt}}, wenn es eine Zahl S gibt, wo {{c2::a_n < S}} ist.;folgen
+Bei einer {{c1::konstanten Folge}} sind alle Folgeglieder gleich.;folgen
+{{c1::Rekursive Folgen}} bauen sich aus den {{c2::Vorgängern}} zusammen und haben einen Startwert.;folgen
